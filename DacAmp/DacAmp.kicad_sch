@@ -1,0 +1,175 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "d6da33f4-6bef-4098-a08b-0ea38da216b8")
+	(paper "A4")
+	(lib_symbols)
+	(text "idea: \nMake selectable voltage output? Like if youre driving earbuds you're not gonna want higher rms voltage over the thing."
+		(exclude_from_sim no)
+		(at 217.424 24.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "40521e14-8402-40eb-b595-d2c1e9fb52cc")
+	)
+	(sheet
+		(at 172.72 74.93)
+		(size 49.53 59.69)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0ffd99b5-ef92-40b1-8758-83ffcbad57bc")
+		(property "Sheetname" "Amplifier"
+			(at 172.72 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "amp.kicad_sch"
+			(at 172.72 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DacAmp"
+				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 66.04 88.9)
+		(size 19.05 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "444411ed-867e-42ae-9836-72e43d6ad6a6")
+		(property "Sheetname" "USB"
+			(at 66.04 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb.kicad_sch"
+			(at 66.04 119.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DacAmp"
+				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 44.45)
+		(size 43.18 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8dbba80f-70ac-4bf0-b889-ef7b7f16f373")
+		(property "Sheetname" "Power"
+			(at 113.03 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 113.03 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DacAmp"
+				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 82.55)
+		(size 41.91 41.91)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c18a308c-fdfd-4dd9-a989-813d71b56970")
+		(property "Sheetname" "Codec"
+			(at 113.03 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "codec.kicad_sch"
+			(at 113.03 125.0446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DacAmp"
+				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
