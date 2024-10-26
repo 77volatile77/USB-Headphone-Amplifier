@@ -5,7 +5,7 @@
 	(uuid "d6da33f4-6bef-4098-a08b-0ea38da216b8")
 	(paper "A4")
 	(lib_symbols)
-	(text "idea: \nMake selectable voltage output? Like if youre driving earbuds you're not gonna want higher rms voltage over the thing."
+	(text "Idea: \nMake selectable voltage output? Like if youre driving earbuds you're not gonna want higher rms voltage over the thing."
 		(exclude_from_sim no)
 		(at 217.424 24.13 0)
 		(effects
