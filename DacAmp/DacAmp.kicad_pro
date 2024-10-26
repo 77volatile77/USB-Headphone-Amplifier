@@ -396,12 +396,16 @@
       "Codec"
     ],
     [
-      "0ffd99b5-ef92-40b1-8758-83ffcbad57bc",
-      "Amplifier"
-    ],
-    [
       "8dbba80f-70ac-4bf0-b889-ef7b7f16f373",
       "Power"
+    ],
+    [
+      "765aa114-40bf-4fb7-ad02-1003eccfadc3",
+      "Right channel amp"
+    ],
+    [
+      "fa9e2eb6-9580-4b63-a928-94e55d72b574",
+      "Left channel amp"
     ]
   ],
   "text_variables": {}
