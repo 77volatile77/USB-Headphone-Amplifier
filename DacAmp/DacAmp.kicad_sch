@@ -54,7 +54,7 @@
 		)
 	)
 	(sheet
-		(at 177.8 71.12)
+		(at 177.8 55.88)
 		(size 35.56 25.4)
 		(fields_autoplaced yes)
 		(stroke
@@ -66,7 +66,7 @@
 		)
 		(uuid "765aa114-40bf-4fb7-ad02-1003eccfadc3")
 		(property "Sheetname" "Right channel amp"
-			(at 177.8 70.4084 0)
+			(at 177.8 55.1684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -75,7 +75,7 @@
 			)
 		)
 		(property "Sheetfile" "ampR.kicad_sch"
-			(at 177.8 97.1046 0)
+			(at 177.8 81.8646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -87,6 +87,44 @@
 			(project "DacAmp"
 				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8"
 					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 185.42 93.98)
+		(size 21.59 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7e1e8095-8e09-4bd8-b7d6-5751d1457e92")
+		(property "Sheetname" "Dual-Gang Potentiometer"
+			(at 185.42 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dualpot.kicad_sch"
+			(at 185.42 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DacAmp"
+				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8"
+					(page "7")
 				)
 			)
 		)
@@ -168,7 +206,7 @@
 		)
 	)
 	(sheet
-		(at 177.8 105.41)
+		(at 177.8 124.46)
 		(size 35.56 25.4)
 		(fields_autoplaced yes)
 		(stroke
@@ -180,7 +218,7 @@
 		)
 		(uuid "fa9e2eb6-9580-4b63-a928-94e55d72b574")
 		(property "Sheetname" "Left channel amp"
-			(at 177.8 104.6984 0)
+			(at 177.8 123.7484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -189,7 +227,7 @@
 			)
 		)
 		(property "Sheetfile" "ampL.kicad_sch"
-			(at 177.8 131.3946 0)
+			(at 177.8 150.4446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
