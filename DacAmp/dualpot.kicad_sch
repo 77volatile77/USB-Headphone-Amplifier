@@ -651,6 +651,13 @@
 		(pin "6"
 			(uuid "27a2bf80-841d-44a6-bd23-3fc069cd7a56")
 		)
-		(instances)
+		(instances
+			(project "DacAmp"
+				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3/50d74267-ab66-4636-8096-d68d9e24794b"
+					(reference "RV2")
+					(unit 1)
+				)
+			)
+		)
 	)
 )
