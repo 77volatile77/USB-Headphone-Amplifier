@@ -121,6 +121,46 @@
 				(justify left top)
 			)
 		)
+		(pin "VOUTL" input
+			(at 173.99 106.68 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4ca63791-899d-42d2-95e5-61047c785df7")
+		)
+		(pin "VOUTR" input
+			(at 173.99 100.33 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d9fee4e3-d1d2-4776-85d3-1c9b6beaf918")
+		)
+		(pin "VOL_CTRL_OUT_R" output
+			(at 208.28 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9b66725e-6f0b-4b4b-860b-307fb1ce425c")
+		)
+		(pin "VOL_CTRL_OUT_L" output
+			(at 208.28 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "404af1f8-ab56-40ff-a139-e735ef0a337e")
+		)
 		(instances
 			(project "DacAmp"
 				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8"

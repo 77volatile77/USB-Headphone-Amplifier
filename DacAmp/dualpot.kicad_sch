@@ -544,7 +544,7 @@
 		)
 		(uuid "4be3689b-6a80-4299-97ba-2c0ceadad3a4")
 	)
-	(hierarchical_label "VOL_CTRL_OUT_R"
+	(hierarchical_label "VOL_CTRL_OUT_L"
 		(shape output)
 		(at 120.65 64.77 270)
 		(fields_autoplaced yes)
