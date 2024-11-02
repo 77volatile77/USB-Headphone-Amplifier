@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LM2941")(type "KiCad")(uri "${KIPRJMOD}/Components/LM2941LD_NOPB/LM2941LD_NOPB.kicad_sym")(options "")(descr ""))
+)

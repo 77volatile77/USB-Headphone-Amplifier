@@ -2921,6 +2921,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 97.79 175.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0d0bbba7-a9c6-4ae9-9343-f17e2caccec1")
+		(property "Reference" "C34"
+			(at 101.6 173.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 101.6 176.5299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 98.7552 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 97.79 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 97.79 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "750a1757-7bf1-4d8b-8110-3aeb380f56f5")
+		)
+		(pin "1"
+			(uuid "03bd23d9-c05c-40c7-b6b0-be18baf8c017")
+		)
+		(instances
+			(project "DacAmp"
+				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
+					(reference "C34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Amplifier_Operational:NE5532")
 		(at 142.24 175.26 0)
 		(unit 3)
@@ -3585,76 +3655,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 124.46 175.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "33aff04e-6da0-4df7-ac47-b05debf155c0")
-		(property "Reference" "C35"
-			(at 128.27 173.9899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 128.27 176.5299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 125.4252 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 124.46 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 124.46 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8d83ecd5-0000-44e7-b89d-b7a5178b23f5")
-		)
-		(pin "1"
-			(uuid "292f9f33-9e06-4297-97f3-eb2ffc3f68c6")
-		)
-		(instances
-			(project "DacAmp"
-				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
-					(reference "C35")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Amplifier_Operational:NE5532")
 		(at 275.59 52.07 0)
 		(mirror x)
@@ -4212,6 +4212,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 152.4 175.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4c2f7829-27ab-40b6-9e8a-8aa50ee9cae6")
+		(property "Reference" "C36"
+			(at 156.21 173.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 156.21 176.5299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 153.3652 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 152.4 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "2d863a87-9330-4df4-b117-9cdd2c417f89")
+		)
+		(pin "1"
+			(uuid "b5f5713f-575a-43e9-9e9a-17fbeb7bbf23")
+		)
+		(instances
+			(project "DacAmp"
+				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
+					(reference "C36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 111.76 185.42 0)
 		(unit 1)
@@ -4361,6 +4431,76 @@
 				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
 					(reference "U7")
 					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 124.46 175.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4fbcb1db-fcdd-4a55-be93-b3449850aedc")
+		(property "Reference" "C35"
+			(at 128.27 173.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 128.27 176.5299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 125.4252 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 124.46 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 124.46 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6edec917-3f2d-46fd-abb6-56147f2f9ea0")
+		)
+		(pin "1"
+			(uuid "bdbbd543-a90d-4a16-9a52-fe777037c831")
+		)
+		(instances
+			(project "DacAmp"
+				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
+					(reference "C35")
+					(unit 1)
 				)
 			)
 		)
@@ -4636,6 +4776,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 72.39 175.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "749f5d8c-8875-4fab-a6d5-3a4af7d168ac")
+		(property "Reference" "C33"
+			(at 76.2 173.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 76.2 176.5299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 73.3552 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 72.39 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 72.39 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3370757f-f4c8-4f97-97c5-ec080da9b80f")
+		)
+		(pin "1"
+			(uuid "2edc802d-5475-4a47-97f9-974c9b756220")
+		)
+		(instances
+			(project "DacAmp"
+				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
+					(reference "C33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VCC")
 		(at 119.38 57.15 180)
 		(unit 1)
@@ -4764,76 +4974,6 @@
 			(project "DacAmp"
 				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
 					(reference "C15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 97.79 175.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8560d3b2-b4e3-4643-aec4-c904db7f0ad8")
-		(property "Reference" "C34"
-			(at 101.6 173.9899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 101.6 176.5299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 98.7552 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 97.79 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 97.79 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0a514fcd-c211-4354-af38-24152a489626")
-		)
-		(pin "1"
-			(uuid "680c091c-f60f-434b-988b-ab45c0e2092d")
-		)
-		(instances
-			(project "DacAmp"
-				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
-					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -5647,146 +5787,6 @@
 			(project "DacAmp"
 				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
 					(reference "R11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 72.39 175.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ac08ef27-d118-4277-a881-e1cb11336d84")
-		(property "Reference" "C33"
-			(at 76.2 173.9899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 76.2 176.5299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 73.3552 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 72.39 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 72.39 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e88ebb05-0b0f-4344-a96b-32adeaa14e35")
-		)
-		(pin "1"
-			(uuid "3f174ab3-e9b5-4890-9d77-053c58f550f3")
-		)
-		(instances
-			(project "DacAmp"
-				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
-					(reference "C33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 152.4 175.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b3d03b43-e34f-4f7c-929c-79b7a77abad2")
-		(property "Reference" "C36"
-			(at 156.21 173.9899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 156.21 176.5299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 153.3652 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 152.4 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 152.4 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c6e8bbb1-0786-4b0b-a1d3-afa190236fef")
-		)
-		(pin "1"
-			(uuid "e795430b-1480-44e1-9d7c-5c7d40c0a585")
-		)
-		(instances
-			(project "DacAmp"
-				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
-					(reference "C36")
 					(unit 1)
 				)
 			)
