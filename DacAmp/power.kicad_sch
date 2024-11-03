@@ -3443,6 +3443,16 @@
 		)
 		(uuid "16aa505c-3834-40b3-b1b3-4838cfce3bb2")
 	)
+	(text "prob just put a 10u here or something."
+		(exclude_from_sim no)
+		(at 76.454 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "62065840-d989-4c14-aeac-5f3102275653")
+	)
 	(text "Boost Converter (17V @ 100mA)"
 		(exclude_from_sim no)
 		(at 130.81 21.59 0)
@@ -4423,7 +4433,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "10u"
 			(at 127 27.94 90)
 			(effects
 				(font
