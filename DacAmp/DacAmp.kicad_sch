@@ -141,6 +141,26 @@
 			)
 			(uuid "d9fee4e3-d1d2-4776-85d3-1c9b6beaf918")
 		)
+		(pin "PREAMP_OUT_R" output
+			(at 208.28 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "e6cb67d2-0d1b-4dad-a118-bd5674057d55")
+		)
+		(pin "PREAMP_OUT_L" output
+			(at 208.28 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5c05b06b-4c73-49d4-906c-0300d5e59b9a")
+		)
 		(instances
 			(project "DacAmp"
 				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8"
