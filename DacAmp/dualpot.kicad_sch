@@ -633,6 +633,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 107.95 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "68c7d712-b4b8-412c-8336-d20a67066c06")
 		)

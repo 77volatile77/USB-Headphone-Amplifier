@@ -2724,6 +2724,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 121.92 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "119e34e7-903f-4e25-8ddb-9e5702678daa")
 		)
@@ -2783,6 +2792,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 205.74 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 205.74 82.55 0)
 			(effects
 				(font
@@ -2926,6 +2944,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 88.9 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "57f95902-5474-4d9d-92dd-f88310d11bf3")
 		)
@@ -2988,6 +3015,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 191.77 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 191.77 100.33 0)
 			(effects
 				(font
@@ -3195,6 +3231,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 123.19 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4522a712-1064-4885-8d97-bfe86ae5defa")
 		)
@@ -3394,6 +3439,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 106.68 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c9d3d679-2b8e-45fb-8643-1a48abefaff9")
 		)
@@ -3585,6 +3639,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 116.84 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 116.84 132.08 0)
 			(effects
 				(font
@@ -3793,6 +3856,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 127 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4710c52e-609c-4f94-a773-cf818ffd4b50")
 		)
@@ -3921,6 +3993,15 @@
 			)
 		)
 		(property "Description" "Stereo Audio Codec with USB interface, Analog Input/Output, and S/PDIF, SSOP-28"
+			(at 152.4 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 152.4 93.98 0)
 			(effects
 				(font
@@ -4141,6 +4222,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 96.52 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "402b2ce6-8afe-4847-89a3-28794ef57a20")
 		)
@@ -4276,6 +4366,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 125.73 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c2bb44d6-87e3-48b2-b7a8-681b37bf966e")
 		)
@@ -4402,6 +4501,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 106.68 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 106.68 74.93 0)
 			(effects
 				(font
@@ -4608,6 +4716,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 115.57 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "041de369-6dce-45b8-9161-a5cba9c599a8")
 		)
@@ -4667,6 +4784,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 115.57 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 115.57 87.63 0)
 			(effects
 				(font
@@ -4736,6 +4862,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 121.92 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 121.92 59.69 0)
 			(effects
 				(font
@@ -4814,6 +4949,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 219.71 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "62f90d12-3ef1-4a21-98f9-7df848959f0a")
 		)
@@ -4873,6 +5017,15 @@
 			)
 		)
 		(property "Description" "Four pin crystal, GND on pins 2 and 4"
+			(at 205.74 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 205.74 95.25 0)
 			(effects
 				(font

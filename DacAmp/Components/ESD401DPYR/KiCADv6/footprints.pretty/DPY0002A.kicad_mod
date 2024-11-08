@@ -1,0 +1,155 @@
+(footprint "DPY0002A"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(tags "ESD401DPYR ")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9bb71583-c682-4d48-b293-88c7174f4ba6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "DPY0002A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "1da6dd4c-2721-40a8-8a10-988d297144a7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9eb60988-3d50-4130-bda8-02517494504d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "21d12642-4681-40be-8d8d-fdac7c0cfee0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "922b864b-770e-4236-a224-12ab9157f544")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.550001 -0.350002)
+		(end 0.550001 -0.350002)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "60e71a53-ae33-4641-96e2-326da1fd89fd")
+	)
+	(fp_line
+		(start -0.550001 0.350002)
+		(end -0.550001 -0.350002)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "69936f2d-8d4a-4466-b9bc-68a8c12cb8d0")
+	)
+	(fp_line
+		(start -0.550001 0.350002)
+		(end 0.550001 0.350002)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "891a28d4-6fac-44fc-bd74-9cc3ba1f0377")
+	)
+	(fp_line
+		(start 0.550001 0.350002)
+		(end 0.550001 -0.350002)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d3ae7fb3-4f24-4e36-88ce-80f5756dee3c")
+	)
+	(fp_text user "Designator9"
+		(at -0.6604 -1.397 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f426b2fd-bf06-4fcd-b521-622fff686636")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "58effc89-9068-4544-9fe7-eef8968d2a9b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.499999 0)
+		(size 0.599999 0.499999)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "9e587ebe-bf0a-458c-8cbf-b7b420f20f0a")
+	)
+	(pad "2" smd rect
+		(at 0.499999 0)
+		(size 0.599999 0.499999)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "f9f15391-7c48-4333-ad0f-d2332c71b828")
+	)
+	(model "${KIPRJMOD}/Components/ESD401DPYR/DPY0002A.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

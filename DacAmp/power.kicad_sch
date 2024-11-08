@@ -3625,6 +3625,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 29.21 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f70a2fa2-25a9-4d47-8006-f7029048571f")
 		)
@@ -3635,76 +3644,6 @@
 			(project "DacAmp"
 				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/8dbba80f-70ac-4bf0-b889-ef7b7f16f373"
 					(reference "C21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 54.61 138.43 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0e087419-72bf-4f7c-aa7c-cd54ff9bf6d5")
-		(property "Reference" "R31"
-			(at 57.15 137.1599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_US"
-			(at 57.15 139.6999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 55.626 138.684 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 54.61 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 54.61 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "54f78a61-4f75-400c-9fdc-d924ae3c3451")
-		)
-		(pin "1"
-			(uuid "4c8e6407-399c-4db1-ba3e-bb897b7e46d6")
-		)
-		(instances
-			(project "DacAmp"
-				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/8dbba80f-70ac-4bf0-b889-ef7b7f16f373"
-					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -3739,7 +3678,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 78.74 40.64 0)
 			(effects
 				(font
@@ -3758,6 +3697,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 73.66 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 73.66 40.64 0)
 			(effects
 				(font
@@ -3823,6 +3771,15 @@
 			)
 		)
 		(property "Description" "Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8"
+			(at 93.98 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 93.98 134.62 0)
 			(effects
 				(font
@@ -3968,6 +3925,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 90.17 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "d7877e0e-63a7-4553-a637-279508dd0895")
 		)
@@ -4058,6 +4024,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 66.04 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "86b95736-f737-4586-a20e-584eb34097f8")
 		)
@@ -4120,6 +4095,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 151.13 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 151.13 63.5 0)
 			(effects
 				(font
@@ -4264,6 +4248,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 151.13 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "88662360-1816-4769-aec6-6191e4a97365")
 		)
@@ -4373,7 +4366,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 67.31 138.43 0)
 			(effects
 				(font
@@ -4392,6 +4385,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, US symbol"
+			(at 67.31 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 67.31 138.43 0)
 			(effects
 				(font
@@ -4433,7 +4435,7 @@
 				)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uH"
 			(at 127 27.94 90)
 			(effects
 				(font
@@ -4460,6 +4462,15 @@
 			)
 		)
 		(property "Description" "Inductor"
+			(at 127 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 127 30.48 0)
 			(effects
 				(font
@@ -4529,6 +4540,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 68.58 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 68.58 46.99 0)
 			(effects
 				(font
@@ -4710,7 +4730,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 108.204 157.734 90)
 			(effects
 				(font
@@ -4729,6 +4749,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 107.95 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 107.95 158.75 0)
 			(effects
 				(font
@@ -4885,34 +4914,34 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 54.61 127 0)
+		(at 54.61 138.43 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "72043328-b2bd-4593-a297-3ba746698016")
-		(property "Reference" "R30"
-			(at 57.15 125.7299 0)
+		(uuid "6e956395-a8ec-4ddc-9650-93656ddb1145")
+		(property "Reference" "R31"
+			(at 57.15 137.1599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "R_US"
-			(at 57.15 128.2699 0)
+		(property "Value" "20k"
+			(at 57.15 139.6999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 55.626 127.254 90)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 53.594 138.176 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4921,7 +4950,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 54.61 127 0)
+			(at 54.61 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4930,7 +4959,16 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 54.61 127 0)
+			(at 54.61 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 54.61 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4939,15 +4977,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "6eaa1c85-9f66-47ab-a44b-02cb1e9955fa")
+			(uuid "a0e158f3-80eb-4dbe-aab2-cd74a1490216")
 		)
 		(pin "1"
-			(uuid "5f6de217-8b86-4965-afac-6af58add54a7")
+			(uuid "e1160aae-9ea4-4b7f-b95e-03484ea52558")
 		)
 		(instances
 			(project "DacAmp"
 				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/8dbba80f-70ac-4bf0-b889-ef7b7f16f373"
-					(reference "R30")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -5048,7 +5086,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 167.64 41.91 0)
 			(effects
 				(font
@@ -5067,6 +5105,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 162.56 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 162.56 41.91 0)
 			(effects
 				(font
@@ -5154,6 +5201,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_US")
+		(at 54.61 127 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7e02207a-ba42-4320-a21c-cf810b19d71d")
+		(property "Reference" "R30"
+			(at 57.15 125.7299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "20k"
+			(at 57.15 128.2699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 53.594 126.746 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 54.61 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 54.61 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 54.61 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e15d5bd4-f2ed-4568-a3f5-1c6856acddaa")
+		)
+		(pin "1"
+			(uuid "ced60b26-d091-4338-a365-0eaaa5e9345b")
+		)
+		(instances
+			(project "DacAmp"
+				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/8dbba80f-70ac-4bf0-b889-ef7b7f16f373"
+					(reference "R30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Polarized_US")
 		(at 129.54 90.17 0)
 		(unit 1)
@@ -5208,6 +5334,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 129.54 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b2f17226-d5bd-4087-b245-cbacda2a92bb")
 		)
@@ -5249,7 +5384,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 108.204 133.604 90)
 			(effects
 				(font
@@ -5268,6 +5403,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 107.95 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 107.95 134.62 0)
 			(effects
 				(font
@@ -5411,6 +5555,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 53.34 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "5162efc7-65bf-4297-a445-8c5a722fecc9")
 		)
@@ -5482,6 +5635,15 @@
 			)
 		)
 		(property "Description" "28-V Output Voltage Boost Converter with Power Diode and Isolation Switch, SOT-23-6"
+			(at 127 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 127 48.26 0)
 			(effects
 				(font
@@ -5677,7 +5839,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 125.73 134.62 0)
 			(effects
 				(font
@@ -5696,6 +5858,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 120.65 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 120.65 134.62 0)
 			(effects
 				(font
@@ -5960,6 +6131,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 163.83 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 163.83 143.51 0)
 			(effects
 				(font
@@ -6367,6 +6547,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 111.76 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6fa2852e-0e18-4514-8a5d-fa408543c66d")
 		)
@@ -6429,6 +6618,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 111.76 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 111.76 100.33 0)
 			(effects
 				(font
@@ -6679,7 +6877,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 125.73 82.55 0)
 			(effects
 				(font
@@ -6698,6 +6896,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 120.65 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 120.65 82.55 0)
 			(effects
 				(font
@@ -6765,6 +6972,15 @@
 			)
 		)
 		(property "Description" "Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8"
+			(at 153.67 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 153.67 143.51 0)
 			(effects
 				(font
@@ -6860,6 +7076,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 168.91 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d1fcb4d9-f36e-47f1-89b4-253b8b958714")
 		)
@@ -6929,6 +7154,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 106.68 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "33c09fdd-ecff-4ab4-a6c6-4488bdafb247")
 		)
@@ -6989,6 +7223,15 @@
 			)
 		)
 		(property "Description" "Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8"
+			(at 93.98 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 93.98 158.75 0)
 			(effects
 				(font

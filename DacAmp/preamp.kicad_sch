@@ -3084,7 +3084,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 98.044 146.304 90)
 			(effects
 				(font
@@ -3103,6 +3103,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 97.79 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 97.79 147.32 0)
 			(effects
 				(font
@@ -3181,6 +3190,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 137.16 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "750a1757-7bf1-4d8b-8110-3aeb380f56f5")
 		)
@@ -3191,6 +3209,83 @@
 			(project "DacAmp"
 				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
 					(reference "C34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized_US")
+		(at 170.18 149.86 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0db9e187-38d5-41f7-9173-6d673cf9bfc3")
+		(property "Reference" "C20"
+			(at 169.545 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10u"
+			(at 169.545 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+			(at 170.18 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 170.18 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor, US symbol"
+			(at 170.18 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 170.18 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a900776b-4e6a-460c-b163-e26ad6d3fa12")
+		)
+		(pin "1"
+			(uuid "2546599d-41cd-4807-944e-9f8d98c44b9f")
+		)
+		(instances
+			(project "DacAmp"
+				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -3243,6 +3338,15 @@
 			)
 		)
 		(property "Description" "Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8"
+			(at 181.61 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 181.61 198.12 0)
 			(effects
 				(font
@@ -3312,7 +3416,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 126.6952 157.48 0)
 			(effects
 				(font
@@ -3331,6 +3435,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 125.73 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 125.73 153.67 0)
 			(effects
 				(font
@@ -3380,7 +3493,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 282.194 139.954 90)
 			(effects
 				(font
@@ -3399,6 +3512,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 281.94 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 281.94 140.97 0)
 			(effects
 				(font
@@ -3540,6 +3662,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 246.38 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "533d5e48-f60d-4de0-b4c3-9d414a4699c1")
 		)
@@ -3574,6 +3705,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized_US")
+		(at 34.29 144.78 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2498c7d8-2891-4458-a7ea-ac20becb2a1e")
+		(property "Reference" "C15"
+			(at 34.925 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10u"
+			(at 34.925 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+			(at 34.29 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 34.29 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor, US symbol"
+			(at 34.29 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 34.29 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "cbfd37c0-4aea-4745-bd62-c968cc2f8bb6")
+		)
+		(pin "1"
+			(uuid "d25ab3ca-0fff-4c30-afdd-ec924162eef8")
+		)
+		(instances
+			(project "DacAmp"
+				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
+					(reference "C15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 281.94 52.07 90)
 		(unit 1)
@@ -3599,7 +3807,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 282.194 51.054 90)
 			(effects
 				(font
@@ -3618,6 +3826,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 281.94 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 281.94 52.07 0)
 			(effects
 				(font
@@ -3685,6 +3902,15 @@
 			)
 		)
 		(property "Description" "Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8"
+			(at 148.59 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 148.59 60.96 0)
 			(effects
 				(font
@@ -3820,7 +4046,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 126.6952 68.58 0)
 			(effects
 				(font
@@ -3839,6 +4065,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 125.73 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 125.73 64.77 0)
 			(effects
 				(font
@@ -3907,6 +4142,15 @@
 			)
 		)
 		(property "Description" "Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8"
+			(at 281.94 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 281.94 66.04 0)
 			(effects
 				(font
@@ -4042,7 +4286,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 229.616 51.054 90)
 			(effects
 				(font
@@ -4061,6 +4305,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 228.6 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 228.6 50.8 0)
 			(effects
 				(font
@@ -4151,142 +4404,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized_US")
-		(at 34.29 144.78 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "483c3525-baaf-4c69-8d89-53fbda10ebae")
-		(property "Reference" "C15"
-			(at 34.925 137.16 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10u"
-			(at 34.925 139.7 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 34.29 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 34.29 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor, US symbol"
-			(at 34.29 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ccdec5b7-3869-4f6c-a013-0d1cb55d1fde")
-		)
-		(pin "1"
-			(uuid "04eef651-3590-40dc-acbc-81f6aeba63b7")
-		)
-		(instances
-			(project "DacAmp"
-				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
-					(reference "C15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized_US")
-		(at 215.9 149.86 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4a1a2af4-c9de-49db-8f01-ace0d86b2a75")
-		(property "Reference" "C13"
-			(at 216.535 157.48 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10u"
-			(at 216.535 154.94 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 215.9 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 215.9 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor, US symbol"
-			(at 215.9 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "243bbc7c-b509-4b29-b9d4-769674f164e0")
-		)
-		(pin "1"
-			(uuid "2ba0a376-9a08-4a0c-ab97-6d47bb4dd66d")
-		)
-		(instances
-			(project "DacAmp"
-				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
-					(reference "C13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 132.08 44.45 90)
 		(unit 1)
@@ -4311,7 +4428,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 135.89 43.4848 0)
 			(effects
 				(font
@@ -4330,6 +4447,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 132.08 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 132.08 44.45 0)
 			(effects
 				(font
@@ -4400,6 +4526,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 191.77 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 191.77 198.12 0)
 			(effects
 				(font
@@ -4544,6 +4679,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 153.67 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "18b6d901-861f-4b96-bb4b-23b8d7103b3e")
 		)
@@ -4632,6 +4776,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 163.83 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6edec917-3f2d-46fd-abb6-56147f2f9ea0")
 		)
@@ -4673,7 +4826,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 57.404 143.764 90)
 			(effects
 				(font
@@ -4692,6 +4845,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 57.15 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 57.15 144.78 0)
 			(effects
 				(font
@@ -4807,7 +4969,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 263.144 151.384 90)
 			(effects
 				(font
@@ -4834,6 +4996,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 262.89 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6c6baeb7-6d86-4b54-8e6c-57cb890e60ad")
 		)
@@ -4844,6 +5015,83 @@
 			(project "DacAmp"
 				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
 					(reference "R20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized_US")
+		(at 215.9 149.86 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "62194f4b-5cd5-4351-a940-907b6c80f957")
+		(property "Reference" "C13"
+			(at 216.535 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10u"
+			(at 216.535 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+			(at 215.9 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 215.9 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor, US symbol"
+			(at 215.9 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 215.9 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ca8c4f0a-93ac-40b2-baf1-77dab98874a6")
+		)
+		(pin "1"
+			(uuid "5122ad57-1002-4c5b-9eef-4d6dd03eb1ca")
+		)
+		(instances
+			(project "DacAmp"
+				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -4875,7 +5123,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 263.144 62.484 90)
 			(effects
 				(font
@@ -4894,6 +5142,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 262.89 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 262.89 63.5 0)
 			(effects
 				(font
@@ -5009,7 +5266,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 71.374 132.334 90)
 			(effects
 				(font
@@ -5036,6 +5293,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 71.12 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7db160c4-c00a-449b-ac4b-a8b771c721e3")
 		)
@@ -5046,6 +5312,83 @@
 			(project "DacAmp"
 				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
 					(reference "R41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized_US")
+		(at 170.18 60.96 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "73d7f624-c15c-4948-87cf-8b80e0a5ad3b")
+		(property "Reference" "C19"
+			(at 169.545 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10u"
+			(at 169.545 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+			(at 170.18 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 170.18 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor, US symbol"
+			(at 170.18 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 170.18 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "73ad3ac1-c174-49f9-9cf5-3f7e1547c716")
+		)
+		(pin "1"
+			(uuid "0de70d51-bcd2-4811-9cee-1e578259f1ee")
+		)
+		(instances
+			(project "DacAmp"
+				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -5098,6 +5441,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 111.76 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 111.76 198.12 0)
 			(effects
 				(font
@@ -5213,7 +5565,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 70.104 43.434 90)
 			(effects
 				(font
@@ -5240,6 +5592,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 69.85 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5955af24-d255-4820-ba89-92d5942da7e5")
 		)
@@ -5250,74 +5611,6 @@
 			(project "DacAmp"
 				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
 					(reference "R40")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized_US")
-		(at 170.18 60.96 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "92a6efd4-a4c0-4c64-baa9-b58b383422a1")
-		(property "Reference" "C19"
-			(at 169.545 53.2512 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10u"
-			(at 169.545 55.7912 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 170.18 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 170.18 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor, US symbol"
-			(at 170.18 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5c2dfd2b-27dc-42b2-b191-6fc2d65b2c95")
-		)
-		(pin "1"
-			(uuid "ff079f3e-efd0-4036-8d9b-61554a5304cd")
-		)
-		(instances
-			(project "DacAmp"
-				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
-					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -5348,7 +5641,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 135.89 132.3848 0)
 			(effects
 				(font
@@ -5367,6 +5660,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 132.08 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 132.08 133.35 0)
 			(effects
 				(font
@@ -5508,6 +5810,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 148.59 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "3bbc5e3d-378b-4ba9-9706-0716226dbd8d")
 		)
@@ -5585,6 +5896,15 @@
 			)
 		)
 		(property "Description" "Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8"
+			(at 246.38 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 246.38 152.4 0)
 			(effects
 				(font
@@ -5671,6 +5991,15 @@
 			)
 		)
 		(property "Description" "Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8"
+			(at 69.85 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 69.85 58.42 0)
 			(effects
 				(font
@@ -5831,6 +6160,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 281.94 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "6719eef5-12b9-4e52-983f-f90388cef0f0")
 		)
@@ -5890,7 +6228,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 118.364 57.404 90)
 			(effects
 				(font
@@ -5909,6 +6247,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 118.11 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 118.11 58.42 0)
 			(effects
 				(font
@@ -5958,7 +6305,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 98.044 57.404 90)
 			(effects
 				(font
@@ -5977,6 +6324,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 97.79 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 97.79 58.42 0)
 			(effects
 				(font
@@ -6319,6 +6675,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 127 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "18b6d901-861f-4b96-bb4b-23b8d7103b3b")
 		)
@@ -6348,6 +6713,83 @@
 				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
 					(reference "U6")
 					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized_US")
+		(at 215.9 60.96 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cd087205-15fe-4ca6-841c-42daf0d8308c")
+		(property "Reference" "C12"
+			(at 216.535 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10u"
+			(at 216.535 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+			(at 215.9 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 215.9 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor, US symbol"
+			(at 215.9 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 215.9 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "914ac2eb-8104-4aaf-a9a9-22b2fef78ec8")
+		)
+		(pin "1"
+			(uuid "391b7b4e-156c-4a42-b0c8-f9237d45f856")
+		)
+		(instances
+			(project "DacAmp"
+				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
+					(reference "C12")
+					(unit 1)
 				)
 			)
 		)
@@ -6405,6 +6847,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 281.94 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1f448855-f84b-44e2-a773-588cf5ea1e57")
 		)
@@ -6446,7 +6897,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 118.364 146.304 90)
 			(effects
 				(font
@@ -6465,6 +6916,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 118.11 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 118.11 147.32 0)
 			(effects
 				(font
@@ -6541,6 +7001,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 71.12 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "3bbc5e3d-378b-4ba9-9706-0716226dbd8e")
 		)
@@ -6600,7 +7069,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 34.29 55.88 0)
 			(effects
 				(font
@@ -6619,6 +7088,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, US symbol"
+			(at 34.29 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 34.29 55.88 0)
 			(effects
 				(font
@@ -6697,6 +7175,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 101.6 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "18b6d901-861f-4b96-bb4b-23b8d7103b3a")
 		)
@@ -6731,142 +7218,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized_US")
-		(at 170.18 149.86 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "dcac60a7-e8fd-479c-88ab-0f799da96eb9")
-		(property "Reference" "C20"
-			(at 169.545 157.5688 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10u"
-			(at 169.545 155.0288 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 170.18 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 170.18 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor, US symbol"
-			(at 170.18 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d064cd78-2a8c-4ee0-834a-df2331bd4382")
-		)
-		(pin "1"
-			(uuid "e60d0f24-c495-4e7b-a9d6-3ea16743eccf")
-		)
-		(instances
-			(project "DacAmp"
-				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
-					(reference "C20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized_US")
-		(at 215.9 60.96 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dead7021-7af2-4da3-81c2-103cd6909135")
-		(property "Reference" "C12"
-			(at 216.535 53.34 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10u"
-			(at 216.535 55.88 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 215.9 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 215.9 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor, US symbol"
-			(at 215.9 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b3378a5c-060e-4be6-915f-d08cea5a09ce")
-		)
-		(pin "1"
-			(uuid "ec2ba0fb-ccda-4cf8-bf56-596cc2f4e1e4")
-		)
-		(instances
-			(project "DacAmp"
-				(path "/d6da33f4-6bef-4098-a08b-0ea38da216b8/765aa114-40bf-4fb7-ad02-1003eccfadc3"
-					(reference "C12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 228.6 139.7 0)
 		(unit 1)
@@ -6894,7 +7245,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 229.616 139.954 90)
 			(effects
 				(font
@@ -6913,6 +7264,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 228.6 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 228.6 139.7 0)
 			(effects
 				(font
@@ -6981,6 +7341,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 281.94 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 281.94 40.64 0)
 			(effects
 				(font
@@ -7161,7 +7530,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 56.134 54.864 90)
 			(effects
 				(font
@@ -7180,6 +7549,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 55.88 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 55.88 55.88 0)
 			(effects
 				(font

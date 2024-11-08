@@ -1733,6 +1733,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 29.21 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2600ca9d-ee0b-4608-b2f6-0260760f1255")
 		)
@@ -1793,6 +1802,15 @@
 			)
 		)
 		(property "Description" "USB Type B connector"
+			(at 48.26 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 48.26 62.23 0)
 			(effects
 				(font
@@ -1874,6 +1892,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 59.69 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 59.69 80.01 0)
 			(effects
 				(font
@@ -2018,6 +2045,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 22.86 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "85ebe038-561b-4bfa-aedc-fd23a706be44")
 		)
@@ -2082,6 +2118,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 77.47 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 77.47 80.01 0)
 			(effects
 				(font
