@@ -2111,7 +2111,7 @@
 	(footprint "TestPoint:TestPoint_Pad_D1.5mm"
 		(layer "F.Cu")
 		(uuid "09df72e1-6d90-4618-a2a2-d63b13880e63")
-		(at 76.24 60.3)
+		(at 33.314 56.744)
 		(descr "SMD pad as test Point, diameter 1.5mm")
 		(tags "test point SMD pad")
 		(property "Reference" "TP5"
@@ -38643,5 +38643,16 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(gr_rect
+		(start 77.978 39.37)
+		(end 204.978 166.37)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "f02a1642-c7a6-44c6-ac5a-c4a9fa24646f")
 	)
 )
