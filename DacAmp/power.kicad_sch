@@ -3443,16 +3443,6 @@
 		)
 		(uuid "16aa505c-3834-40b3-b1b3-4838cfce3bb2")
 	)
-	(text "prob just put a 10u here or something."
-		(exclude_from_sim no)
-		(at 76.454 62.23 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "62065840-d989-4c14-aeac-5f3102275653")
-	)
 	(text "Boost Converter (17V @ 100mA)"
 		(exclude_from_sim no)
 		(at 130.81 21.59 0)
@@ -3493,6 +3483,50 @@
 		)
 		(uuid "f6fdfbb9-231d-4c2e-ba27-2fde3228e6a9")
 	)
+	(label "BST_FB"
+		(at 139.7 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1190decc-21cc-4558-834a-77b871311d53")
+	)
+	(label "7V5_BUF2"
+		(at 91.44 166.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7172def6-88b6-4a63-a9c6-aec911b294f6")
+	)
+	(label "7V5_BUF1"
+		(at 91.44 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "aa1f90af-3bf8-49e6-a544-8a0a940ded9a")
+	)
+	(label "7V5_IN"
+		(at 71.12 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c399a5de-19df-4fa0-823e-25578e433829")
+	)
 	(label "ADJ"
 		(at 106.68 93.98 0)
 		(fields_autoplaced yes)
@@ -3503,6 +3537,17 @@
 			(justify left bottom)
 		)
 		(uuid "f0973753-7414-414d-a104-b6d8466df618")
+	)
+	(label "SW"
+		(at 137.16 43.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f9805908-456f-4749-8cce-b3fe10bcc0ea")
 	)
 	(symbol
 		(lib_id "power:+15V")
