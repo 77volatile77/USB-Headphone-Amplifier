@@ -4998,7 +4998,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ABM8:XTAL_ABM8-12.000MHZ-12-B1U-T"
+		(property "Footprint" "ABM8_12_000MHZ_12_B1U_T:XTAL_ABM8-12.000MHZ-12-B1U-T"
 			(at 205.74 95.25 0)
 			(effects
 				(font

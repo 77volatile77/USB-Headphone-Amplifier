@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "LM2941")(type "KiCad")(uri "${KIPRJMOD}/Components/LM2941LD_NOPB/LM2941LD_NOPB.kicad_sym")(options "")(descr ""))
   (lib (name "ESD401DPYR")(type "KiCad")(uri "${KIPRJMOD}/Components/ESD401DPYR/KiCADv6/2024-11-08_21-16-35.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-10-02_15-56-16")(type "KiCad")(uri "${KIPRJMOD}/Components/ul_ESD321DYAR/KiCADv6/2024-10-02_15-56-16.kicad_sym")(options "")(descr ""))
+  (lib (name "ABM8-12.000MHZ-12-B1U-T")(type "KiCad")(uri "${KIPRJMOD}/Components/ABM8_12_000MHZ_12_B1U_T/ABM8-12.000MHZ-12-B1U-T.kicad_sym")(options "")(descr ""))
 )

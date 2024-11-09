@@ -2830,36 +2830,6 @@
 		)
 		(uuid "1f0585ca-8894-45b1-a611-1480016cdcdd")
 	)
-	(text "derate"
-		(exclude_from_sim no)
-		(at 142.24 203.454 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "221dda77-1d6e-450c-b472-58fd3915259a")
-	)
-	(text "derate"
-		(exclude_from_sim no)
-		(at 116.84 203.454 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "645a3d1b-a05f-47a7-a6d6-f4fae985078d")
-	)
-	(text "derate"
-		(exclude_from_sim no)
-		(at 196.85 203.454 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "704c6a55-d4dc-4bfd-97e7-b7640de9802b")
-	)
 	(text "-3dB @ 20kHz"
 		(exclude_from_sim no)
 		(at 145.034 102.616 0)
@@ -2879,16 +2849,6 @@
 			)
 		)
 		(uuid "cd0961ef-47e9-4cee-a6e8-fed4ff0007f3")
-	)
-	(text "derate"
-		(exclude_from_sim no)
-		(at 168.91 203.454 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "cf3474d3-cc1e-4482-8fc1-71853b202331")
 	)
 	(text "Sallen-Key\nLow Pass Filter"
 		(exclude_from_sim no)
@@ -6812,7 +6772,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "30p"
 			(at 281.94 124.46 90)
 			(effects
 				(font
@@ -6820,7 +6780,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 285.75 128.5748 0)
 			(effects
 				(font
@@ -7011,13 +6971,13 @@
 			)
 		)
 		(pin "8"
-			(uuid "3bbc5e3d-378b-4ba9-9706-0716226dbd8e")
+			(uuid "3bbc5e3d-378b-4ba9-9706-0716226dbd8f")
 		)
 		(pin "6"
-			(uuid "9cab58a6-4fba-42bc-8ba9-5ff00e8e0e71")
+			(uuid "9cab58a6-4fba-42bc-8ba9-5ff00e8e0e72")
 		)
 		(pin "4"
-			(uuid "7a1a932f-931d-454f-83fe-55cd158b7cda")
+			(uuid "7a1a932f-931d-454f-83fe-55cd158b7cdb")
 		)
 		(pin "2"
 			(uuid "57246342-cbab-44e8-ae2d-05ad1cd0ba48")
@@ -7026,13 +6986,13 @@
 			(uuid "f9c5bb40-6221-4d32-8f3a-e605286d6e18")
 		)
 		(pin "5"
-			(uuid "c6e131b2-f3be-4575-a753-1756af21fb03")
+			(uuid "c6e131b2-f3be-4575-a753-1756af21fb04")
 		)
 		(pin "3"
 			(uuid "2b6e6064-0dd4-45f5-9662-9027bd4314b9")
 		)
 		(pin "7"
-			(uuid "a58720d3-b1f1-4f8f-9646-8da1888ee820")
+			(uuid "a58720d3-b1f1-4f8f-9646-8da1888ee821")
 		)
 		(instances
 			(project "DacAmp"
@@ -7314,7 +7274,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "30p"
 			(at 281.94 35.56 90)
 			(effects
 				(font
@@ -7322,7 +7282,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 285.75 39.6748 0)
 			(effects
 				(font
