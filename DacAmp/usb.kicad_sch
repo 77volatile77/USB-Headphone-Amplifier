@@ -1981,6 +1981,16 @@
 			(justify left)
 		)
 		(uuid "610f1cde-e66e-4935-891f-d740d7227df4")
+		(property "Netclass" "USB"
+			(at 85.09 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
 	)
 	(hierarchical_label "CONN_D+"
 		(shape output)
@@ -1993,6 +2003,16 @@
 			(justify left)
 		)
 		(uuid "d203e989-b828-46a1-ac42-eac0cd6930e3")
+		(property "Netclass" "USB"
+			(at 85.09 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
