@@ -2874,6 +2874,16 @@
 		)
 		(uuid "feccb047-cdf1-4b78-86b7-9805359453e6")
 	)
+	(text "-3dB @ 1/(2pi * Z_{load} * 100 uF)\nZ_{load} = 20k || Z_{headphone}"
+		(exclude_from_sim no)
+		(at 98.552 34.544 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "932c0730-cfa7-4457-bccb-0c89823cbb04")
+	)
 	(label "BUF4_OUT_R"
 		(at 189.23 140.97 0)
 		(fields_autoplaced yes)
