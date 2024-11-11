@@ -449,4 +449,15 @@
 		(solder_mask_margin 0.102)
 		(uuid "6660db9b-4695-4302-b66c-5ecd11e7c1fa")
 	)
+	(model "${KIPRJMOD}/Components/potentiometer/PTN16-A10220K1B2/3D/PTN16-A10220K1B2.stp"
+		(offset
+			(xyz 5 -8 16.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 90)
+		)
+	)
 )
