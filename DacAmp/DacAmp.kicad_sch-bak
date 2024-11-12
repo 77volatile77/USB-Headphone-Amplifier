@@ -1078,6 +1078,16 @@
 			)
 			(uuid "84eb7ed0-2157-449e-adb9-df52ff15e892")
 		)
+		(pin "VOUTR" output
+			(at 154.94 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f7340493-42e9-4962-948c-92ac29eff6ef")
+		)
 		(pin "CONN_D-" input
 			(at 113.03 105.41 180)
 			(effects
@@ -1097,16 +1107,6 @@
 				(justify left)
 			)
 			(uuid "8735f864-97a5-44a2-ad0d-f08eef847193")
-		)
-		(pin "VOUTR" output
-			(at 154.94 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "4fd31b10-cbaa-4215-a4c5-a0577fa6857a")
 		)
 		(instances
 			(project "DacAmp"

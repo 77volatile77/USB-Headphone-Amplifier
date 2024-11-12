@@ -3892,7 +3892,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LM2941:DFN400X400X80-9N"
+		(property "Footprint" "LM2941:NGN0008A"
 			(at 90.17 88.9 0)
 			(effects
 				(font
